@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akshay kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kadam" height="30" width="40" /></a>
 <a href="mailto:akshaykadam9010@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Akshay Kadam" height="25" width="30" /></a>
-<a href="tel: +91 9686315358" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/552/266/png-clipart-telephone-call-illustration-telephone-logo-computer-icons-phone-icon-blue-electronics-thumbnail.png" alt="Akshay Kadam" height="40" width="40" /></a>
+<a href="tel: +91 9686315358" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/759/922/png-clipart-telephone-logo-iphone-telephone-call-smartphone-phone-electronics-text.png" alt="Akshay Kadam" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
