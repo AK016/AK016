@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kadam</h1>
-<h3 align="center">Highly skilled and motivated Java Backend Developer with a solid foundation in Java, Spring Boot, React, and Maven. Possessing a comprehensive understanding of web development principles, gained through successful completion of a rigorous training program at Masai School. Demonstrates a strong ability to collaborate effectively in team environments, communicate complex ideas clearly, and deliver high-quality code solutions. Committed to continuous learning, embracing new technologies, and contributing to the success of projects through meticulous attention to detail and a proactive approach.</h3>
+<h3 align="center">Experienced Java Backend Developer Driving Innovation with Expertise in Java, Spring Boot, React, and Maven.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak016&label=Profile%20views&color=0e75b6&style=flat" alt="ak016" /> </p>
 
