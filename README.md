@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi 👋, I'm Akshay Kadam</h1>
+<h1 align="center">Hi 👋, I'm [Akshay Kadam]</h1>
 <h3 align="center">Experienced Java Backend Developer Driving Innovation with Expertise in Java, Spring Boot, and Maven.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak016&label=Profile%20views&color=0e75b6&style=flat" alt="ak016" /> </p>
