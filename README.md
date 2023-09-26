@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kadam</h1>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Akshay Kadam" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Akshay Kadam" /></a>
 <h3 align="center">Experienced Java Backend Developer Driving Innovation with Expertise in Java, Spring Boot, and Maven.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak016&label=Profile%20views&color=0e75b6&style=flat" alt="ak016" /> </p>
