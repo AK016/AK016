@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak016&label=Profile%20views&color=0e75b6&style=flat" alt="ak016" /> </p>
 
--  👨‍💻 All of my projects are available at  [Portfolio](https://ak016.github.io/)
+[Portfolio](https://ak016.github.io/)
 
 - 📫 How to reach me **akshaykadam9010@gmail.com**
 
