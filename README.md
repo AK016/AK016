@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/uc?id=17lTCB0ULBn3aTPEWN0j5AawZoRk-xccd&export=download) 
 
-- 📫 How to reach me **abhipathak3537@gmail.com**
+- 📫 How to reach me **akshaykadam9010@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kadam-8444b81ab/) 
 
