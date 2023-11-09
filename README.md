@@ -5,7 +5,7 @@
 Aspiring Java Backend developer with a strong foundation in console-based projects. Proficient in Java, Spring Boot, Hibernate, and Maven.
 
 # 🌐 Socials:
-- 👨‍💻 All of my projects are available at [Portfolio](https://ak016.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://AK016.github.io/)
 
 
 
